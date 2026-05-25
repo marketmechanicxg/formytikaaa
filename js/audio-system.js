@@ -14,7 +14,7 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Nggak Ngerti,
+    title:     'Engga Ngerti',
     artist:    'Kahitna',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
